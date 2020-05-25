@@ -1,8 +1,9 @@
 use_frameworks!
 
 target 'PrivateModule_Example' do
-  pod 'PrivateModule', :path => '../'
-
+  #pod 'PrivateModule', :path => '../'
+  pod 'PrivateModule', :podspec => '../PrivateModule.podspec'
+  
   target 'PrivateModule_Tests' do
     inherit! :search_paths
 
