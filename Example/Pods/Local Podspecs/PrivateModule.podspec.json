@@ -1,0 +1,22 @@
+{
+  "name": "PrivateModule",
+  "version": "0.1.0",
+  "summary": "A short description of PrivateModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fireJera/PrivateModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fireJera": "renjie@yuanben.org"
+  },
+  "source": {
+    "git": "https://github.com/fireJera/PrivateModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PrivateModule/Classes/**/*"
+}
